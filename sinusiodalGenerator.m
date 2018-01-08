@@ -8,6 +8,7 @@ function sineWave = sinusiodalGenerator (varargin)
 % samplngRate = 1024 Hz
 % timeDurationInMilliSec = 1000 ms
 % phaseShift = 0 - PhaseShift in radians
+% Return: Sine Wave
 
 switch (nargin)
     case 0
